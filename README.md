@@ -1,0 +1,1 @@
+This the repository where I implemented a figma design from scratch 
